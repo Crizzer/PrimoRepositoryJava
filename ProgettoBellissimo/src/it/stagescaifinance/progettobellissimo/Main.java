@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("Ciao belli!!!");
 		System.out.println("Ciaooo !!!!");
 
-		System.out.println("Sono Cri nel branch di Gerardo ahahahahaha");
+		System.out.println("Sono Cri nel branch di Gerardo ahahah");
 
 	}
 
